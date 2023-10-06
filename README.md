@@ -1,2 +1,2 @@
 # Counter
--Visit>[Counter](https://github.com/ist57/Counter)
+-Visit>[Counter](https://ist57.github.io/Counter/)
